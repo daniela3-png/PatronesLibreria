@@ -1,0 +1,3 @@
+[2026-05-22 19:23:47] Canción escuchada: Bohemian Rhapsody - Queen
+[2026-05-22 19:23:47] Canción escuchada: The Weeknd - Blinding Lights
+[2026-05-22 19:23:47] Canción escuchada: Pista VLC Externa (Formato .vlc)
